@@ -6,7 +6,7 @@ Highlights:-
 
 * Covers core topics: Arrays, Strings, Trees, Graphs, Dynamic Programming,etc
 * Clean, efficient, and well-structured solutions
-* 
+  
 Progress:-
 
 Regularly updated with new problems and optimized approaches.
