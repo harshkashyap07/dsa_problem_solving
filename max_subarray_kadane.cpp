@@ -2,7 +2,7 @@
 #include<climits>
 #include<vector>
 using namespace std;
-int max_subarray(vector<int>nums)
+int max_subarray(vector<int>& nums)
 {
 	int currsum=0;
 	int max_sum=INT_MIN;
